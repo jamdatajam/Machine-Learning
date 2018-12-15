@@ -1,2 +1,2 @@
 # Machine-Learning
-Various other machine learning projects
+Various other machine learning projects and scripts
